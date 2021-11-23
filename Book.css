@@ -1,0 +1,43 @@
+body{
+  background-color:  #e3316e;
+   
+}
+h1:first-letter{
+    color:white;
+   font-size: 50px;
+}
+h2:first-line
+{
+    color: white;
+}
+p:first-letter{
+    font-size: 60px;
+    color: rgb(72, 75, 74);
+
+}
+h1,h2{
+    text-align: center;
+    color: darkorange;
+    background-color: black;
+  
+    
+}
+p{
+    font-size: 20px;
+    font-style:normal;
+    color:rgb(255, 239, 239);
+}
+a{
+    margin-left: 50%;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+
+    text-decoration: none;
+}
+a.ex1:hover, a.ex1:active {font-size: 200%;}
+a :visited{
+    color: purple;
+}
+.ap{
+    border-radius: 2px solid black;
+}
